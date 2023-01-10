@@ -35,6 +35,4 @@ handlers:
 - url: /styles
   static_dir: static/styles
 
-```
 
-```
