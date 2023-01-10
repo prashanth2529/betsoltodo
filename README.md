@@ -11,7 +11,7 @@ python >= 3.5
 ## Getting started
 
 ```bash
-### open Git bash any working directory and run the following commands
+### open Git bash any in working directory and run the following commands
 git init
 git clone
 cd
@@ -35,6 +35,4 @@ handlers:
 - url: /styles
   static_dir: static/styles
 
-```
 
-```
